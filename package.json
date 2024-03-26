@@ -1,0 +1,19 @@
+{
+  "name": "cli-number-guessing-game007",
+  "version": "2.0.2",
+  "description": "This is cli based numbers guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "malik usman",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
